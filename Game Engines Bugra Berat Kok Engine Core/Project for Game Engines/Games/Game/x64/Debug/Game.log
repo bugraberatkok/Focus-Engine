@@ -1,15 +1,25 @@
 ﻿  main.cpp
-C:\Users\bugra\Desktop\Game Engines Bugra Berat Kok Engine Core\Internal\ObjectManager.h(26,4): warning C4150: deletion of pointer to incomplete type 'BaseObject'; no destructor called
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\ObjectManager.h(26,4): warning C4150: deletion of pointer to incomplete type 'BaseObject'; no destructor called
   (compiling source file 'main.cpp')
-      C:\Users\bugra\Desktop\Game Engines Bugra Berat Kok Engine Core\Internal\ObjectManager.h(7,7):
+      C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\ObjectManager.h(7,7):
       see declaration of 'BaseObject'
   
-C:\Users\bugra\Desktop\Game Engines Bugra Berat Kok Engine Core\Internal\ObjectManager.h(51,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\ObjectManager.h(51,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
   (compiling source file 'main.cpp')
   
-C:\Users\bugra\Desktop\Game Engines Bugra Berat Kok Engine Core\Internal\ObjectManager.h(63,5): warning C4150: deletion of pointer to incomplete type 'BaseObject'; no destructor called
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\ObjectManager.h(63,5): warning C4150: deletion of pointer to incomplete type 'BaseObject'; no destructor called
   (compiling source file 'main.cpp')
-      C:\Users\bugra\Desktop\Game Engines Bugra Berat Kok Engine Core\Internal\ObjectManager.h(7,7):
+      C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\ObjectManager.h(7,7):
       see declaration of 'BaseObject'
   
-  Game.vcxproj -> C:\Users\bugra\Desktop\Game Engines Bugra Berat Kok Engine Core\Project for Game Engines\Games\x64\Debug\Game.exe
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\BaseObject.h(33,29): warning C4099: 'Animation': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'main.cpp')
+      C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\AnimationManager.h(9,8):
+      see declaration of 'Animation'
+  
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\BaseObject.h(34,30): warning C4099: 'Animation': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'main.cpp')
+      C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\AnimationManager.h(9,8):
+      see declaration of 'Animation'
+  
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Project for Game Engines\Games\Game\main.cpp(313,1): error C2471: cannot update program database 'C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Project for Game Engines\Games\Game\x64\Debug\vc143.pdb'

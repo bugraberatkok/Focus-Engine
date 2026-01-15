@@ -1,1 +1,25 @@
-﻿  GameEngine.vcxproj -> C:\Users\bugra\Desktop\Game Engines Bugra Berat Kok Engine Core\Project for Game Engines\Games\x64\Debug\GameEngine.lib
+﻿  AnimationManager.cpp
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\AnimationManager.cpp(98,76): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\AnimationManager.cpp(160,1): error C2471: cannot update program database 'C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Project for Game Engines\Games\x64\Debug\GameEngine.idb'
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\AnimationManager.cpp(160,1): error C2471: cannot update program database 'C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Project for Game Engines\Games\x64\Debug\GameEngine.pdb'
+  BackgroundManager.cpp
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\BackgroundManager.cpp(1,1): error C1033: cannot open program database 'C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Project for Game Engines\Games\x64\Debug\GameEngine.pdb'
+  BaseObject.cpp
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\BaseObject.cpp(1,1): error C1033: cannot open program database 'C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Project for Game Engines\Games\x64\Debug\GameEngine.pdb'
+  Button.cpp
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\Button.cpp(1,1): error C1033: cannot open program database 'C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Project for Game Engines\Games\x64\Debug\GameEngine.pdb'
+  Character.cpp
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\Character.cpp(1,1): error C1033: cannot open program database 'C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Project for Game Engines\Games\x64\Debug\GameEngine.pdb'
+  GameManager.cpp
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\GameManager.cpp(1,1): error C1033: cannot open program database 'C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Project for Game Engines\Games\x64\Debug\GameEngine.pdb'
+  SceneManager.cpp
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\SceneManager.cpp(1,1): error C1033: cannot open program database 'C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Project for Game Engines\Games\x64\Debug\GameEngine.pdb'
+  SoundManager.cpp
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\SoundManager.cpp(1,1): error C1033: cannot open program database 'C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Project for Game Engines\Games\x64\Debug\GameEngine.pdb'
+  StaticObject.cpp
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\StaticObject.cpp(1,1): error C1033: cannot open program database 'C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Project for Game Engines\Games\x64\Debug\GameEngine.pdb'
+  TextManager.cpp
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\TextManager.cpp(1,1): error C1033: cannot open program database 'C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Project for Game Engines\Games\x64\Debug\GameEngine.pdb'
+  UIManager.cpp
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\UIManager.cpp(1,1): error C1033: cannot open program database 'C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Project for Game Engines\Games\x64\Debug\GameEngine.pdb'
+  Generating Code...

@@ -71,10 +71,10 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>..\..\..\External\SDL2-2.32.10\include;$(IncludePath)</IncludePath>
+    <IncludePath>..\..\..\External\SDL2-2.32.10\include;..\..\..\External\SDL2_image-2.6.1\include;..\..\..\External\SDL2_mixer-2.8.0\include;..\..\..\External\SDL2_ttf-2.22.0\include;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <IncludePath>..\..\..\External\SDL2-2.32.10\include;$(IncludePath)</IncludePath>
+    <IncludePath>..\..\..\External\SDL2-2.32.10\include;..\..\..\External\SDL2_image-2.6.1\include;..\..\..\External\SDL2_mixer-2.8.0\include;..\..\..\External\SDL2_ttf-2.22.0\include;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
@@ -108,7 +108,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>..\..\..\External\SDL2-2.32.10\include;..\..\..\External\SDL2_image-2.6.1\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\..\..\External\SDL2-2.32.10\include;..\..\..\External\SDL2_image-2.6.1\include;..\..\..\External\SDL2_mixer-2.8.0\include;..\..\..\External\SDL2_ttf-2.22.0\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -125,7 +125,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>..\..\..\External\SDL2-2.32.10\include;..\..\..\External\SDL2_image-2.6.1\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>..\..\..\External\SDL2-2.32.10\include;..\..\..\External\SDL2_image-2.6.1\include;..\..\..\External\SDL2_mixer-2.8.0\include;..\..\..\External\SDL2_ttf-2.22.0\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -135,23 +135,43 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\Internal\AnimationManager.cpp" />
+    <ClCompile Include="..\..\..\Internal\BackgroundManager.cpp" />
     <ClCompile Include="..\..\..\Internal\BaseObject.cpp" />
+    <ClCompile Include="..\..\..\Internal\Button.cpp" />
+    <ClCompile Include="..\..\..\Internal\Character.cpp" />
+    <ClCompile Include="..\..\..\Internal\GameManager.cpp" />
     <ClCompile Include="..\..\..\Internal\InputManager.cpp" />
     <ClCompile Include="..\..\..\Internal\ObjectManager.cpp" />
-    <ClCompile Include="..\..\..\Internal\obstacle.cpp" />
     <ClCompile Include="..\..\..\Internal\PhysicsManager.cpp" />
-    <ClCompile Include="..\..\..\Internal\player.cpp" />
+    <ClCompile Include="..\..\..\Internal\SceneManager.cpp" />
+    <ClCompile Include="..\..\..\Internal\SoundManager.cpp" />
+    <ClCompile Include="..\..\..\Internal\SpriteManager.cpp" />
+    <ClCompile Include="..\..\..\Internal\StaticObject.cpp" />
+    <ClCompile Include="..\..\..\Internal\TextManager.cpp" />
     <ClCompile Include="..\..\..\Internal\TimeManager.cpp" />
+    <ClCompile Include="..\..\..\Internal\UIManager.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\Internal\AnimationManager.h" />
+    <ClInclude Include="..\..\..\Internal\BackgroundManager.h" />
     <ClInclude Include="..\..\..\Internal\BaseObject.h" />
+    <ClInclude Include="..\..\..\Internal\Button.h" />
+    <ClInclude Include="..\..\..\Internal\Character.h" />
+    <ClInclude Include="..\..\..\Internal\GameManager.h" />
     <ClInclude Include="..\..\..\Internal\InputManager.h" />
     <ClInclude Include="..\..\..\Internal\ObjectManager.h" />
-    <ClInclude Include="..\..\..\Internal\obstacle.h" />
     <ClInclude Include="..\..\..\Internal\PhysicsManager.h" />
-    <ClInclude Include="..\..\..\Internal\player.h" />
+    <ClInclude Include="..\..\..\Internal\Scene.h" />
+    <ClInclude Include="..\..\..\Internal\SceneManager.h" />
     <ClInclude Include="..\..\..\Internal\Singleton.h" />
+    <ClInclude Include="..\..\..\Internal\SoundManager.h" />
+    <ClInclude Include="..\..\..\Internal\SpriteManager.h" />
+    <ClInclude Include="..\..\..\Internal\StaticObject.h" />
+    <ClInclude Include="..\..\..\Internal\TextManager.h" />
     <ClInclude Include="..\..\..\Internal\TimeManager.h" />
+    <ClInclude Include="..\..\..\Internal\UIElement.h" />
+    <ClInclude Include="..\..\..\Internal\UIManager.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

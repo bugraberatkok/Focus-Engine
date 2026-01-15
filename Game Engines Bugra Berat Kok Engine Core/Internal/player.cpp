@@ -1,16 +1,30 @@
 #include "Player.h"
-#include "SDL.h"
+#include "SpriteManager.h"
+#include <SDL.h>
 
-Player::Player(float x, float y, int w, int h)
+Player::Player(float x, float y, float scale)
 {
+    // Önce scale'i ayarla, sonra texture ver (SetTexture bunu kullanacak)
+    SetScale(scale);
     SetPosition(x, y);
-    rect.w = w;
-    rect.h = h;
+
+    SDL_Texture* tex = SpriteManager::GetInstance().LoadTexture(
+        "player_idle",
+        "../../../../Media/player_idle.png"
+    );
+
+    if (!tex)
+    {
+        SDL_Log("Player texture FAILED to load!");
+    }
+
+    SetTexture(tex);   // texW / texH burada doluyor, rect.w/h = texW * scale
 }
 
 void Player::Update()
 {
-    // Input kontrol�
+
+    
     InputManager& input = InputManager::GetInstance();
 
     if (input.GetKey(SDL_SCANCODE_UP))
@@ -22,14 +36,17 @@ void Player::Update()
     if (input.GetKey(SDL_SCANCODE_RIGHT))
         posX += speed;
 
-    // Pozisyonu g�ncelle
+	// Rect pozisyonunu güncelle
     rect.x = static_cast<int>(posX);
     rect.y = static_cast<int>(posY);
 }
 
 void Player::Render(SDL_Renderer* renderer)
 {
-    // ye�il renkli kare
+    // Sprite'ı çiz
+    BaseObject::Render(renderer);
+
+    // Debug için hitbox görmek istersen:
     SDL_SetRenderDrawColor(renderer, 0, 255, 0, 255);
-    SDL_RenderFillRect(renderer, &rect);
+    SDL_RenderDrawRect(renderer, &rect);
 }

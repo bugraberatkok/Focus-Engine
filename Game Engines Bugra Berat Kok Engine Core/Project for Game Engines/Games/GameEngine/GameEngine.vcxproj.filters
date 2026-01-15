@@ -24,16 +24,43 @@
     <ClCompile Include="..\..\..\Internal\InputManager.cpp">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Internal\player.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\Internal\obstacle.cpp">
-      <Filter>Kaynak Dosyalar</Filter>
-    </ClCompile>
     <ClCompile Include="..\..\..\Internal\TimeManager.cpp">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
     <ClCompile Include="..\..\..\Internal\PhysicsManager.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Internal\SpriteManager.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Internal\GameManager.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Internal\AnimationManager.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Internal\SoundManager.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Internal\TextManager.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Internal\SceneManager.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Internal\Button.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Internal\UIManager.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Internal\BackgroundManager.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Internal\Character.cpp">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Internal\StaticObject.cpp">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
   </ItemGroup>
@@ -50,16 +77,49 @@
     <ClInclude Include="..\..\..\Internal\Singleton.h">
       <Filter>Üst Bilgi Dosyaları</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\Internal\player.h">
-      <Filter>Üst Bilgi Dosyaları</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\Internal\obstacle.h">
-      <Filter>Üst Bilgi Dosyaları</Filter>
-    </ClInclude>
     <ClInclude Include="..\..\..\Internal\TimeManager.h">
       <Filter>Üst Bilgi Dosyaları</Filter>
     </ClInclude>
     <ClInclude Include="..\..\..\Internal\PhysicsManager.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Internal\SpriteManager.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Internal\GameManager.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Internal\AnimationManager.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Internal\SoundManager.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Internal\TextManager.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Internal\Scene.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Internal\SceneManager.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Internal\Button.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Internal\UIElement.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Internal\UIManager.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Internal\BackgroundManager.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Internal\Character.h">
+      <Filter>Üst Bilgi Dosyaları</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Internal\StaticObject.h">
       <Filter>Üst Bilgi Dosyaları</Filter>
     </ClInclude>
   </ItemGroup>

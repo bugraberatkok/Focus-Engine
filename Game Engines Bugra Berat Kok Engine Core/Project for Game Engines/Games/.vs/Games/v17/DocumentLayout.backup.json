@@ -1,55 +1,112 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Project for Game Engines\\Games\\",
+  "WorkspaceRootPath": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Project for Game Engines\\Games\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE56BFED-51BE-40C2-8C7E-AFC7D3DF3B05}|Game\\Game.vcxproj|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Project for Game Engines\\Games\\Game\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CE56BFED-51BE-40C2-8C7E-AFC7D3DF3B05}|Game\\Game.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Project for Game Engines\\Games\\Game\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CE56BFED-51BE-40C2-8C7E-AFC7D3DF3B05}|Game\\Game.vcxproj|solutionrelative:Game\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\obstacle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BaseObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\PhysicsManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BaseObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Singleton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\TimeManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\StaticObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\ObjectManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\StaticObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\InputManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BackgroundManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BaseObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BackgroundManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\TimeManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\UIManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\UIManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\PhysicsManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\obstacle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Button.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\ObjectManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\UIElement.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\InputManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BaseObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\TextManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\TextManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\SoundManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\SpriteManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\ObjectManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\SoundManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\InputManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\AnimationManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\InputManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\AnimationManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\SpriteManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\PhysicsManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\ObjectManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\PhysicsManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\PhysicsManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93D25EFD-F39E-4397-AF3A-B2F4021193D2}|GameEngine\\GameEngine.vcxproj|C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Singleton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\PhysicsManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -89,6 +146,45 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\BaseObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\TimeManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Singleton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\obstacle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\ObjectManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\InputManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BaseObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\TimeManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\PhysicsManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\obstacle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\ObjectManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BaseObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\InputManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,368 +194,754 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TimeManager.h",
-              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\TimeManager.h",
-              "RelativeDocumentMoniker": "..\\..\\Internal\\TimeManager.h",
-              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\TimeManager.h",
-              "RelativeToolTip": "..\\..\\Internal\\TimeManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-15T01:44:38.104Z",
+              "DocumentIndex": 3,
+              "Title": "Character.cpp",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Character.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\Character.cpp",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Character.cpp",
+              "RelativeToolTip": "..\\..\\Internal\\Character.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-15T00:55:55.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Singleton.h",
-              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Singleton.h",
-              "RelativeDocumentMoniker": "..\\..\\Internal\\Singleton.h",
-              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Singleton.h",
-              "RelativeToolTip": "..\\..\\Internal\\Singleton.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Character.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Character.h",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\Character.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Character.h",
+              "RelativeToolTip": "..\\..\\Internal\\Character.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-15T01:44:36.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "player.h",
-              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\player.h",
-              "RelativeDocumentMoniker": "..\\..\\Internal\\player.h",
-              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\player.h",
-              "RelativeToolTip": "..\\..\\Internal\\player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-15T01:44:33.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PhysicsManager.h",
-              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\PhysicsManager.h",
-              "RelativeDocumentMoniker": "..\\..\\Internal\\PhysicsManager.h",
-              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\PhysicsManager.h",
-              "RelativeToolTip": "..\\..\\Internal\\PhysicsManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-15T01:44:31.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "obstacle.h",
-              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\obstacle.h",
-              "RelativeDocumentMoniker": "..\\..\\Internal\\obstacle.h",
-              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\obstacle.h",
-              "RelativeToolTip": "..\\..\\Internal\\obstacle.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-15T01:44:30.981Z",
+              "WhenOpened": "2026-01-15T00:55:50.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ObjectManager.h",
-              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\ObjectManager.h",
-              "RelativeDocumentMoniker": "..\\..\\Internal\\ObjectManager.h",
-              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\ObjectManager.h",
-              "RelativeToolTip": "..\\..\\Internal\\ObjectManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "StaticObject.cpp",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\StaticObject.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\StaticObject.cpp",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\StaticObject.cpp",
+              "RelativeToolTip": "..\\..\\Internal\\StaticObject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-15T00:55:39.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StaticObject.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\StaticObject.h",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\StaticObject.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\StaticObject.h",
+              "RelativeToolTip": "..\\..\\Internal\\StaticObject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-15T01:44:29.323Z",
+              "WhenOpened": "2026-01-15T00:55:33.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "InputManager.h",
-              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\InputManager.h",
-              "RelativeDocumentMoniker": "..\\..\\Internal\\InputManager.h",
-              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\InputManager.h",
-              "RelativeToolTip": "..\\..\\Internal\\InputManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "BackgroundManager.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BackgroundManager.h",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\BackgroundManager.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BackgroundManager.h",
+              "RelativeToolTip": "..\\..\\Internal\\BackgroundManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-15T01:44:28.334Z",
+              "WhenOpened": "2026-01-15T00:51:04.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "BaseObject.h",
-              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BaseObject.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BaseObject.h",
               "RelativeDocumentMoniker": "..\\..\\Internal\\BaseObject.h",
-              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BaseObject.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BaseObject.h",
               "RelativeToolTip": "..\\..\\Internal\\BaseObject.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-15T01:44:26.641Z",
+              "WhenOpened": "2025-12-03T18:47:40.608Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TimeManager.cpp",
-              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\TimeManager.cpp",
-              "RelativeDocumentMoniker": "..\\..\\Internal\\TimeManager.cpp",
-              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\TimeManager.cpp",
-              "RelativeToolTip": "..\\..\\Internal\\TimeManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "BaseObject.cpp",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BaseObject.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\BaseObject.cpp",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BaseObject.cpp",
+              "RelativeToolTip": "..\\..\\Internal\\BaseObject.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAJIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-15T01:44:24.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "player.cpp",
-              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\player.cpp",
-              "RelativeDocumentMoniker": "..\\..\\Internal\\player.cpp",
-              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\player.cpp",
-              "RelativeToolTip": "..\\..\\Internal\\player.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-15T01:44:22.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "PhysicsManager.cpp",
-              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\PhysicsManager.cpp",
-              "RelativeDocumentMoniker": "..\\..\\Internal\\PhysicsManager.cpp",
-              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\PhysicsManager.cpp",
-              "RelativeToolTip": "..\\..\\Internal\\PhysicsManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-15T01:44:20.234Z",
+              "WhenOpened": "2025-11-24T13:54:27.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Project for Game Engines\\Games\\Game\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Project for Game Engines\\Games\\Game\\main.cpp",
               "RelativeDocumentMoniker": "Game\\main.cpp",
-              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Project for Game Engines\\Games\\Game\\main.cpp",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Project for Game Engines\\Games\\Game\\main.cpp",
               "RelativeToolTip": "Game\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABUBAAAAAAAAAAAAACQBAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-01T15:20:49.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "obstacle.cpp",
-              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\obstacle.cpp",
-              "RelativeDocumentMoniker": "..\\..\\Internal\\obstacle.cpp",
-              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\obstacle.cpp",
-              "RelativeToolTip": "..\\..\\Internal\\obstacle.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "BackgroundManager.cpp",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BackgroundManager.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\BackgroundManager.cpp",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BackgroundManager.cpp",
+              "RelativeToolTip": "..\\..\\Internal\\BackgroundManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-15T01:44:17.824Z",
+              "WhenOpened": "2026-01-15T00:50:58.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Button.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Button.h",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\Button.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Button.h",
+              "RelativeToolTip": "..\\..\\Internal\\Button.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-15T00:44:48.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "ObjectManager.cpp",
-              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\ObjectManager.cpp",
-              "RelativeDocumentMoniker": "..\\..\\Internal\\ObjectManager.cpp",
-              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\ObjectManager.cpp",
-              "RelativeToolTip": "..\\..\\Internal\\ObjectManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "UIElement.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\UIElement.h",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\UIElement.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\UIElement.h",
+              "RelativeToolTip": "..\\..\\Internal\\UIElement.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-15T00:44:53.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Button.cpp",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Button.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\Button.cpp",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Button.cpp",
+              "RelativeToolTip": "..\\..\\Internal\\Button.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-15T01:44:15.377Z",
+              "WhenOpened": "2026-01-15T00:44:44.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UIManager.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\UIManager.h",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\UIManager.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\UIManager.h",
+              "RelativeToolTip": "..\\..\\Internal\\UIManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-15T00:44:33.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UIManager.cpp",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\UIManager.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\UIManager.cpp",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\UIManager.cpp",
+              "RelativeToolTip": "..\\..\\Internal\\UIManager.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-15T00:44:25.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "BaseObject.cpp",
-              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BaseObject.cpp",
-              "RelativeDocumentMoniker": "..\\..\\Internal\\BaseObject.cpp",
-              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BaseObject.cpp",
-              "RelativeToolTip": "..\\..\\Internal\\BaseObject.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-15T01:44:12.514Z",
+              "Title": "SceneManager.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\SceneManager.h",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\SceneManager.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\SceneManager.h",
+              "RelativeToolTip": "..\\..\\Internal\\SceneManager.h",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-15T00:41:30.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Scene.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Scene.h",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\Scene.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Scene.h",
+              "RelativeToolTip": "..\\..\\Internal\\Scene.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-15T00:41:29.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "InputManager.cpp",
-              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\InputManager.cpp",
-              "RelativeDocumentMoniker": "..\\..\\Internal\\InputManager.cpp",
-              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\InputManager.cpp",
-              "RelativeToolTip": "..\\..\\Internal\\InputManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "Title": "SceneManager.cpp",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\SceneManager.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\SceneManager.cpp",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\SceneManager.cpp",
+              "RelativeToolTip": "..\\..\\Internal\\SceneManager.cpp",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAUwIIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-15T01:44:08.159Z",
+              "WhenOpened": "2026-01-15T00:41:27.007Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "TextManager.cpp",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\TextManager.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\TextManager.cpp",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\TextManager.cpp",
+              "RelativeToolTip": "..\\..\\Internal\\TextManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-15T00:36:32.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TextManager.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\TextManager.h",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\TextManager.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\TextManager.h",
+              "RelativeToolTip": "..\\..\\Internal\\TextManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-15T00:36:10.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SpriteManager.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\SpriteManager.h",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\SpriteManager.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\SpriteManager.h",
+              "RelativeToolTip": "..\\..\\Internal\\SpriteManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-14T23:38:35.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SoundManager.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\SoundManager.h",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\SoundManager.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\SoundManager.h",
+              "RelativeToolTip": "..\\..\\Internal\\SoundManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-14T23:20:10.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AnimationManager.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\AnimationManager.h",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\AnimationManager.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\AnimationManager.h",
+              "RelativeToolTip": "..\\..\\Internal\\AnimationManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-14T22:18:11.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GameManager.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\GameManager.h",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\GameManager.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\GameManager.h",
+              "RelativeToolTip": "..\\..\\Internal\\GameManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-14T22:03:37.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ObjectManager.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\ObjectManager.h",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\ObjectManager.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\ObjectManager.h",
+              "RelativeToolTip": "..\\..\\Internal\\ObjectManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-03T18:58:46.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SoundManager.cpp",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\SoundManager.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\SoundManager.cpp",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\SoundManager.cpp",
+              "RelativeToolTip": "..\\..\\Internal\\SoundManager.cpp",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-14T23:21:57.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AnimationManager.cpp",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\AnimationManager.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\AnimationManager.cpp",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\AnimationManager.cpp",
+              "RelativeToolTip": "..\\..\\Internal\\AnimationManager.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-14T22:18:33.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InputManager.cpp",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\InputManager.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\InputManager.cpp",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\InputManager.cpp",
+              "RelativeToolTip": "..\\..\\Internal\\InputManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-14T23:37:56.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InputManager.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\InputManager.h",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\InputManager.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\InputManager.h",
+              "RelativeToolTip": "..\\..\\Internal\\InputManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-24T13:36:39.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GameManager.cpp",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\GameManager.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\GameManager.cpp",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\GameManager.cpp",
+              "RelativeToolTip": "..\\..\\Internal\\GameManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-14T22:04:57.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ObjectManager.cpp",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\ObjectManager.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\ObjectManager.cpp",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\ObjectManager.cpp",
+              "RelativeToolTip": "..\\..\\Internal\\ObjectManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-03T18:59:07.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SpriteManager.cpp",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\SpriteManager.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\SpriteManager.cpp",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\SpriteManager.cpp",
+              "RelativeToolTip": "..\\..\\Internal\\SpriteManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-30T21:31:41.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PhysicsManager.cpp",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\PhysicsManager.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\PhysicsManager.cpp",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\PhysicsManager.cpp",
+              "RelativeToolTip": "..\\..\\Internal\\PhysicsManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-04T16:26:29.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PhysicsManager.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\PhysicsManager.h",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\PhysicsManager.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\PhysicsManager.h",
+              "RelativeToolTip": "..\\..\\Internal\\PhysicsManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-04T16:41:37.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Singleton.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Singleton.h",
+              "RelativeDocumentMoniker": "..\\..\\Internal\\Singleton.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game-Engines-Bugra-Berat-Kok-Engine-Core\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Singleton.h",
+              "RelativeToolTip": "..\\..\\Internal\\Singleton.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-24T13:34:31.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PhysicsManager.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\PhysicsManager.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\PhysicsManager.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\PhysicsManager.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\PhysicsManager.h",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-15T01:44:31.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "obstacle.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\obstacle.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\obstacle.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\obstacle.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\obstacle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-15T01:44:30.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Singleton.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Singleton.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Singleton.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Singleton.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\Singleton.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-15T01:44:36.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ObjectManager.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\ObjectManager.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\ObjectManager.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\ObjectManager.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\ObjectManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-15T01:44:29.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TimeManager.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\TimeManager.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\TimeManager.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\TimeManager.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\TimeManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-15T01:44:38.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "InputManager.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\InputManager.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\InputManager.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\InputManager.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\InputManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-15T01:44:28.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BaseObject.h",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BaseObject.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BaseObject.h",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BaseObject.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BaseObject.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-15T01:44:26.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "TimeManager.cpp",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\TimeManager.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\TimeManager.cpp",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\TimeManager.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\TimeManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-15T01:44:24.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "player.cpp",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\player.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\player.cpp",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\player.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-15T01:44:22.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "PhysicsManager.cpp",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\PhysicsManager.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\PhysicsManager.cpp",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\PhysicsManager.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\PhysicsManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-15T01:44:20.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "obstacle.cpp",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\obstacle.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\obstacle.cpp",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\obstacle.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\obstacle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-15T01:44:17.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ObjectManager.cpp",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\ObjectManager.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\ObjectManager.cpp",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\ObjectManager.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\ObjectManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-15T01:44:15.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "BaseObject.cpp",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BaseObject.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BaseObject.cpp",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BaseObject.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\BaseObject.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-15T01:44:12.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "InputManager.cpp",
+              "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\InputManager.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\InputManager.cpp",
+              "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bugra Berat Kok Engine Core\\Internal\\InputManager.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bugra Berat Kok Engine Core\\Internal\\InputManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-15T01:44:08.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
               "Title": "PhysicsManager.cpp",
               "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\PhysicsManager.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\PhysicsManager.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\PhysicsManager.cpp",
               "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\PhysicsManager.cpp",
-              "RelativeToolTip": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\PhysicsManager.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\PhysicsManager.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-14T19:33:54.271Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 37,
               "Title": "TimeManager.h",
               "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\TimeManager.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\TimeManager.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\TimeManager.h",
               "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\TimeManager.h",
-              "RelativeToolTip": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\TimeManager.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\TimeManager.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-11-11T14:37:09.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 38,
               "Title": "obstacle.h",
               "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\obstacle.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\obstacle.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\obstacle.h",
               "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\obstacle.h",
-              "RelativeToolTip": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\obstacle.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\obstacle.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-11-11T14:34:59.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 39,
               "Title": "player.h",
               "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\player.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\player.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\player.h",
               "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\player.h",
-              "RelativeToolTip": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\player.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\player.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-11-11T14:19:54.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 40,
               "Title": "player.cpp",
               "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\player.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\player.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\player.cpp",
               "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\player.cpp",
-              "RelativeToolTip": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\player.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\player.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-11T14:19:35.469Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 41,
               "Title": "InputManager.h",
               "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\InputManager.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\InputManager.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\InputManager.h",
               "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\InputManager.h",
-              "RelativeToolTip": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\InputManager.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\InputManager.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-11-11T14:07:23.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 42,
               "Title": "ObjectManager.h",
               "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\ObjectManager.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\ObjectManager.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\ObjectManager.h",
               "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\ObjectManager.h",
-              "RelativeToolTip": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\ObjectManager.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\ObjectManager.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-11-02T22:51:26.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 43,
               "Title": "BaseObject.h",
               "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\BaseObject.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\BaseObject.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\BaseObject.h",
               "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\BaseObject.h",
-              "RelativeToolTip": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\BaseObject.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\BaseObject.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-11-02T22:51:22.783Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 44,
               "Title": "ObjectManager.cpp",
               "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\ObjectManager.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\ObjectManager.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\ObjectManager.cpp",
               "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\ObjectManager.cpp",
-              "RelativeToolTip": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\ObjectManager.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\ObjectManager.cpp",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-02T22:51:21.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 35,
               "Title": "PhysicsManager.h",
               "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\PhysicsManager.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\PhysicsManager.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\PhysicsManager.h",
               "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\PhysicsManager.h",
-              "RelativeToolTip": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\PhysicsManager.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\PhysicsManager.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-11-14T19:34:41.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 45,
               "Title": "obstacle.cpp",
               "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\obstacle.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\obstacle.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\obstacle.cpp",
               "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\obstacle.cpp",
-              "RelativeToolTip": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\obstacle.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\obstacle.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-11T14:35:00.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 46,
               "Title": "InputManager.cpp",
               "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\InputManager.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\InputManager.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\InputManager.cpp",
               "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\InputManager.cpp",
-              "RelativeToolTip": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\InputManager.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\InputManager.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-02T22:51:21.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 47,
               "Title": "BaseObject.cpp",
               "DocumentMoniker": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\BaseObject.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\BaseObject.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\BaseObject.cpp",
               "ToolTip": "C:\\Users\\bugra\\Desktop\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\BaseObject.cpp",
-              "RelativeToolTip": "..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\BaseObject.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\Game Engines Bu\u011Fra Berat K\u00F6k Engine Core\\Internal\\BaseObject.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-02T22:51:20.644Z"
