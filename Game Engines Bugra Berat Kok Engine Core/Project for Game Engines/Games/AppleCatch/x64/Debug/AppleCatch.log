@@ -1,0 +1,39 @@
+﻿  Apple.cpp
+  AppleCollectorGame.cpp
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\AnimationManager.h(9,8): warning C4099: 'Animation': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'AppleCollectorGame.cpp')
+      C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\AnimationManager.h(9,8):
+      see declaration of 'Animation'
+  
+  AppleGameOverScene.cpp
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\AnimationManager.h(9,8): warning C4099: 'Animation': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'AppleGameOverScene.cpp')
+      C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\AnimationManager.h(9,8):
+      see declaration of 'Animation'
+  
+  AppleGameScene.cpp
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\AnimationManager.h(9,8): warning C4099: 'Animation': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'AppleGameScene.cpp')
+      C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\AnimationManager.h(9,8):
+      see declaration of 'Animation'
+  
+  AppleStartScene.cpp
+  main.cpp
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\BaseObject.h(41,29): warning C4099: 'Animation': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'main.cpp')
+      C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\AnimationManager.h(9,8):
+      see declaration of 'Animation'
+  
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\BaseObject.h(42,30): warning C4099: 'Animation': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'main.cpp')
+      C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\AnimationManager.h(9,8):
+      see declaration of 'Animation'
+  
+  Player.cpp
+C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\AnimationManager.h(9,8): warning C4099: 'Animation': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'Player.cpp')
+      C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Internal\AnimationManager.h(9,8):
+      see declaration of 'Animation'
+  
+  Generating Code...
+  AppleCatch.vcxproj -> C:\Users\bugra\Desktop\Game-Engines-Bugra-Berat-Kok-Engine-Core\Game Engines Bugra Berat Kok Engine Core\Project for Game Engines\Games\x64\Debug\AppleCatch.exe

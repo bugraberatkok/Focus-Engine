@@ -1,7 +1,7 @@
 #include "BaseObject.h"
 #include "ObjectManager.h"
 #include "AnimationManager.h"
-#include "TimeManager.h"
+#include "CameraManager.h"
 #include <SDL.h>
 
 BaseObject::BaseObject()
@@ -10,42 +10,108 @@ BaseObject::BaseObject()
     texW(0), texH(0),
     scale(1.0f),
     animState(nullptr),
-    flip(SDL_FLIP_NONE)
+    flip(SDL_FLIP_NONE),
+    manualHitbox(false),
+    hitboxOffsetX(0),
+    hitboxOffsetY(0),
+    velocityX(0.0f),        // ← YENİ
+    velocityY(0.0f),        // ← YENİ
+    gravityAffected(false)  // ← YENİ (varsayılan kapalı)
 {
     rect = { 0, 0, 0, 0 };
+    renderRect = { 0, 0, 0, 0 };
+
     ObjectManager::GetInstance().AddObject(this);
 }
 
 BaseObject::~BaseObject()
 {
-    // Animasyon state'ini temizle
     if (animState)
     {
         delete animState;
         animState = nullptr;
     }
 
-    ObjectManager::GetInstance().RemoveObject(this);
+    
 }
+
+void BaseObject::UpdateRenderRect()
+{
+    // 1) renderRect boyutu (anim/frame ya da texture)
+    if (animState && animState->currentAnimation &&
+        !animState->currentAnimation->frames.empty())
+    {
+        const SDL_Rect& frame = animState->currentAnimation->frames[0];
+        renderRect.w = static_cast<int>(frame.w * scale);
+        renderRect.h = static_cast<int>(frame.h * scale);
+    }
+    else if (texW > 0 && texH > 0)
+    {
+        renderRect.w = static_cast<int>(texW * scale);
+        renderRect.h = static_cast<int>(texH * scale);
+    }
+
+    // 2) HITBOX: posX,posY'ye bağla (sabit referans)
+    // posX,posY artık "hitbox sol-üst" gibi davranır.
+    renderRect.x = static_cast<int>(posX);
+    renderRect.y = static_cast<int>(posY);
+
+    if (manualHitbox)
+    {
+        // ✅ FLIP'e göre offset'i aynala
+        int ox = hitboxOffsetX;
+
+        if (flip == SDL_FLIP_HORIZONTAL)
+        {
+            // sprite genişliği renderRect.w
+            // hitbox sol-offsetini sağa göre aynala:
+            // newOx = renderRect.w - rect.w - oldOx
+            ox = (renderRect.w - rect.w - hitboxOffsetX);
+        }
+
+        rect.x = renderRect.x + ox;
+        rect.y = renderRect.y + hitboxOffsetY;
+    }
+    else
+    {
+        rect.x = renderRect.x + (renderRect.w - rect.w) / 2;
+        rect.y = renderRect.y + (renderRect.h - rect.h) / 2;
+    }
+}
+
+
 
 void BaseObject::Render(SDL_Renderer* renderer)
 {
-    // Önce animasyon varsa onu çiz
+    UpdateRenderRect();
+
+    SDL_Rect finalRect = renderRect;
+
+    // ← DÜZELT: Camera varsa ve target varsa offset uygula
+    if (CameraManager::GetInstancePtr() != nullptr)
+    {
+        CameraManager& camera = CameraManager::GetInstance();
+        if (camera.GetTarget())
+        {
+            finalRect.x = camera.WorldToScreenX(renderRect.x);
+            finalRect.y = camera.WorldToScreenY(renderRect.y);
+        }
+    }
+
     if (animState && animState->currentAnimation)
     {
         AnimationManager::GetInstance().RenderAnimation(
             renderer,
             *animState,
-            rect.x,
-            rect.y,
+            finalRect.x,
+            finalRect.y,
             scale,
             flip
         );
     }
-    // Animasyon yoksa eski texture sistemini kullan
-    else if (texture && rect.w > 0 && rect.h > 0)
+    else if (texture && finalRect.w > 0 && finalRect.h > 0)
     {
-        SDL_RenderCopyEx(renderer, texture, nullptr, &rect, rot, nullptr, flip);
+        SDL_RenderCopyEx(renderer, texture, nullptr, &finalRect, rot, nullptr, flip);
     }
 }
 
@@ -53,8 +119,7 @@ void BaseObject::SetPosition(float x, float y)
 {
     posX = x;
     posY = y;
-    rect.x = static_cast<int>(x);
-    rect.y = static_cast<int>(y);
+    UpdateRenderRect();  // ← EKLE!
 }
 
 void BaseObject::SetTexture(SDL_Texture* tex)
@@ -69,38 +134,24 @@ void BaseObject::SetTexture(SDL_Texture* tex)
             texW = texH = 0;
         }
 
-        if (texW > 0 && texH > 0)
+        // İlk texture set edildiğinde collision rect'i de texture boyutuna ayarla
+        if (rect.w == 0 && rect.h == 0 && texW > 0 && texH > 0)
         {
-            rect.w = static_cast<int>(texW * scale);
-            rect.h = static_cast<int>(texH * scale);
+            rect.w = texW;
+            rect.h = texH;
         }
     }
     else
     {
-        SDL_Log("SetTexture: texture is nullptr");
         texW = texH = 0;
-        rect.w = rect.h = 0;
     }
 }
 
 void BaseObject::SetScale(float s)
 {
     scale = s;
-
-    // Eğer animasyon varsa, animasyonun frame boyutunu kullan
-    if (animState && animState->currentAnimation &&
-        !animState->currentAnimation->frames.empty())
-    {
-        const SDL_Rect& frame = animState->currentAnimation->frames[0];
-        rect.w = static_cast<int>(frame.w * scale);
-        rect.h = static_cast<int>(frame.h * scale);
-    }
-    // Animasyon yoksa texture boyutunu kullan
-    else if (texW > 0 && texH > 0)
-    {
-        rect.w = static_cast<int>(texW * scale);
-        rect.h = static_cast<int>(texH * scale);
-    }
+    // Artık rect.w ve rect.h değişmiyor!
+    // Sadece renderRect güncellenecek (UpdateRenderRect()'te)
 }
 
 void BaseObject::SetAnimation(Animation* anim)
@@ -120,12 +171,12 @@ void BaseObject::SetAnimation(Animation* anim)
     animState->isPlaying = true;
     animState->isFinished = false;
 
-    // Rect boyutunu animasyon frame'ine göre ayarla
-    if (!anim->frames.empty())
+    // İlk animasyon set edildiğinde collision rect'i de frame boyutuna ayarla
+    if (rect.w == 0 && rect.h == 0 && !anim->frames.empty())
     {
         const SDL_Rect& frame = anim->frames[0];
-        rect.w = static_cast<int>(frame.w * scale);
-        rect.h = static_cast<int>(frame.h * scale);
+        rect.w = frame.w;
+        rect.h = frame.h;
     }
 }
 
@@ -134,7 +185,6 @@ void BaseObject::PlayAnimation(Animation* anim, bool restart)
     if (!anim)
         return;
 
-    // Eğer aynı animasyon çalışıyorsa ve restart false ise, bir şey yapma
     if (animState &&
         animState->currentAnimation == anim &&
         animState->isPlaying &&

@@ -1,12 +1,30 @@
-c:\users\bugra\onedrive\desktop\game engines\project for game engines\games\x64\debug\gameengine.pdb
-c:\users\bugra\onedrive\desktop\game engines\project for game engines\games\x64\debug\gameengine.idb
-c:\users\bugra\onedrive\desktop\game engines\project for game engines\games\gameengine\x64\debug\inputmanager.obj
-c:\users\bugra\onedrive\desktop\game engines\project for game engines\games\gameengine\x64\debug\01_hello_sdl.obj
-c:\users\bugra\onedrive\desktop\game engines\project for game engines\games\x64\debug\gameengine.lib
-c:\users\bugra\onedrive\desktop\game engines\project for game engines\games\gameengine\x64\debug\gameengine.tlog\cl.command.1.tlog
-c:\users\bugra\onedrive\desktop\game engines\project for game engines\games\gameengine\x64\debug\gameengine.tlog\cl.items.tlog
-c:\users\bugra\onedrive\desktop\game engines\project for game engines\games\gameengine\x64\debug\gameengine.tlog\cl.read.1.tlog
-c:\users\bugra\onedrive\desktop\game engines\project for game engines\games\gameengine\x64\debug\gameengine.tlog\cl.write.1.tlog
-c:\users\bugra\onedrive\desktop\game engines\project for game engines\games\gameengine\x64\debug\gameengine.tlog\lib-link.read.1.tlog
-c:\users\bugra\onedrive\desktop\game engines\project for game engines\games\gameengine\x64\debug\gameengine.tlog\lib-link.write.1.tlog
-c:\users\bugra\onedrive\desktop\game engines\project for game engines\games\gameengine\x64\debug\gameengine.tlog\lib.command.1.tlog
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\x64\debug\gameengine.pdb
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\x64\debug\gameengine.idb
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\uimanager.obj
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\timemanager.obj
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\tilemap.obj
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\textmanager.obj
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\staticobject.obj
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\spritemanager.obj
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\soundmanager.obj
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\scenemanager.obj
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\projectile.obj
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\physicsmanager.obj
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\objectmanager.obj
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\inputmanager.obj
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\gamemanager.obj
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\engineapp.obj
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\character.obj
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\cameramanager.obj
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\button.obj
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\baseobject.obj
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\backgroundmanager.obj
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\animationmanager.obj
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\x64\debug\gameengine.lib
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\gameengine.tlog\cl.command.1.tlog
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\gameengine.tlog\cl.items.tlog
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\gameengine.tlog\cl.read.1.tlog
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\gameengine.tlog\cl.write.1.tlog
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\gameengine.tlog\lib-link.read.1.tlog
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\gameengine.tlog\lib-link.write.1.tlog
+c:\users\bugra\desktop\game-engines-bugra-berat-kok-engine-core\game engines bugra berat kok engine core\project for game engines\games\gameengine\x64\debug\gameengine.tlog\lib.command.1.tlog

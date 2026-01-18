@@ -4,6 +4,8 @@
 #include <SDL.h>
 #include <map>
 #include <string>
+#include "Tilemap.h"
+#include "GameSceneBase.h"
 
 class SceneManager : public Singleton<SceneManager>
 {
@@ -14,34 +16,42 @@ private:
     ~SceneManager();
 
     SDL_Renderer* renderer;
-
-    // Tüm scene'leri sakla
     std::map<std::string, Scene*> scenes;
-
-    // Aktif scene
     Scene* currentScene;
-    Scene* nextScene;  // Scene geçişi için
-
+    Scene* nextScene;
     bool isTransitioning;
 
+    TileMap activeMap;
+    bool hasMap = false;
+
+    void LoadTilemapForScene(Scene* scene);
+
 public:
+    TileMap* GetActiveMap()
+    {
+        return hasMap ? &activeMap : nullptr;
+    }
+
     void SetRenderer(SDL_Renderer* r) { renderer = r; }
-
-    // Scene ekle
     void AddScene(const std::string& name, Scene* scene);
-
-    // Scene'e geç
     void ChangeScene(const std::string& name);
-
-    // Şu anki scene'i al
     Scene* GetCurrentScene() const { return currentScene; }
-
-    // Update ve Render
     void Update();
     void Render();
     void HandleInput();
-
-    // Temizlik
     void RemoveScene(const std::string& name);
     void RemoveAllScenes();
+
+    // ==========================================================
+    // ✅ YENİ (CatChase-safe): İstersen elle tilemap yükle
+    // ==========================================================
+    bool LoadActiveTileMapFromCSV(
+        const std::string& tilesetPath,
+        int tileSize,
+        int mapW,
+        int mapH,
+        const std::string& groundCSV
+    );
+
+    void ClearActiveMap() { hasMap = false; }
 };

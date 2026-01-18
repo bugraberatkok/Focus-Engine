@@ -1,6 +1,7 @@
 #pragma once
 #include <SDL.h>
 #include <functional>
+#include <string>
 
 // Tüm UI elemanları bundan türer
 class UIElement

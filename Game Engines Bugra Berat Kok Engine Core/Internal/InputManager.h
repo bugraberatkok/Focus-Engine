@@ -1,33 +1,28 @@
 #pragma once
-
 #include "Singleton.h"
 #include "SDL.h"
+#include <vector>
 
-/**
-Input Manager class
-*/
-class InputManager :public Singleton<InputManager>
+class InputManager : public Singleton<InputManager>
 {
-  
-  friend class Singleton<InputManager>;
-  
+    friend class Singleton<InputManager>;
 
 private:
-  
-  // Keyboard state
-  const Uint8*  mCurrentKeyStates;
+    const Uint8* mCurrentKeyStates;
+    std::vector<SDL_Event> mFrameEvents;
 
-  // Private constructor to avoid more than one instance
-  InputManager() : mCurrentKeyStates(nullptr) {}
+    InputManager() : mCurrentKeyStates(nullptr) {}
 
-  
+    ~InputManager()  // ← EKLE
+    {
+        mFrameEvents.clear();
+    }
 
 public:
-  
-  void Update( void );
+    void Update(void);
+    bool GetKey(int scanCode);
 
-  bool GetKey( int scanCode );
-
-  
-
+    void PushEvent(const SDL_Event& e) { mFrameEvents.push_back(e); }
+    const std::vector<SDL_Event>& GetFrameEvents() const { return mFrameEvents; }
+    void ClearFrameEvents() { mFrameEvents.clear(); }
 };

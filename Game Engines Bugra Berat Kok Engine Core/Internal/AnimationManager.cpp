@@ -153,7 +153,21 @@ void AnimationManager::UnloadAll()
 {
     for (auto& pair : animations)
     {
-        delete pair.second;
+        if (pair.second)
+        {
+            // Texture'ı güvenli sil
+            if (pair.second->texture)
+            {
+                SDL_DestroyTexture(pair.second->texture);
+                pair.second->texture = nullptr;
+            }
+
+            // Vector'ü temizle
+            pair.second->frames.clear();
+
+            // Animation'ı sil
+            delete pair.second;
+        }
     }
     animations.clear();
 }

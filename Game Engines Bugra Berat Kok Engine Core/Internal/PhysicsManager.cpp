@@ -1,19 +1,21 @@
 #include "PhysicsManager.h"
-#include "ObjectManager.h"
 #include "BaseObject.h"
+#include "ObjectManager.h"
 #include <iostream>
+
+PhysicsManager::PhysicsManager()
+    : gravity(980.0f),        // 980 piksel/saniye^2 (standart yerçekimi)
+    gravityEnabled(true)
+{
+}
 
 bool PhysicsManager::CheckCollision(const SDL_Rect& a, const SDL_Rect& b)
 {
-    // AABB collision
     return (a.x < b.x + b.w &&
         a.x + a.w > b.x &&
         a.y < b.y + b.h &&
         a.y + a.h > b.y);
-
-
 }
-
 
 void PhysicsManager::DetectAllCollisions()
 {
@@ -34,3 +36,10 @@ void PhysicsManager::DetectAllCollisions()
     }
 }
 
+void PhysicsManager::ApplyGravity(BaseObject* obj, float deltaTime)
+{
+    if (!gravityEnabled || !obj) return;
+
+    // Gravity uygulanacak (Character'de kullanılacak)
+    // Bu fonksiyon Character tarafından çağrılacak
+}

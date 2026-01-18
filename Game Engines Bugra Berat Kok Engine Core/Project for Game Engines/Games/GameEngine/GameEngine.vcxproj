@@ -139,16 +139,20 @@
     <ClCompile Include="..\..\..\Internal\BackgroundManager.cpp" />
     <ClCompile Include="..\..\..\Internal\BaseObject.cpp" />
     <ClCompile Include="..\..\..\Internal\Button.cpp" />
+    <ClCompile Include="..\..\..\Internal\CameraManager.cpp" />
     <ClCompile Include="..\..\..\Internal\Character.cpp" />
+    <ClCompile Include="..\..\..\Internal\EngineApp.cpp" />
     <ClCompile Include="..\..\..\Internal\GameManager.cpp" />
     <ClCompile Include="..\..\..\Internal\InputManager.cpp" />
     <ClCompile Include="..\..\..\Internal\ObjectManager.cpp" />
     <ClCompile Include="..\..\..\Internal\PhysicsManager.cpp" />
+    <ClCompile Include="..\..\..\Internal\Projectile.cpp" />
     <ClCompile Include="..\..\..\Internal\SceneManager.cpp" />
     <ClCompile Include="..\..\..\Internal\SoundManager.cpp" />
     <ClCompile Include="..\..\..\Internal\SpriteManager.cpp" />
     <ClCompile Include="..\..\..\Internal\StaticObject.cpp" />
     <ClCompile Include="..\..\..\Internal\TextManager.cpp" />
+    <ClCompile Include="..\..\..\Internal\Tilemap.cpp" />
     <ClCompile Include="..\..\..\Internal\TimeManager.cpp" />
     <ClCompile Include="..\..\..\Internal\UIManager.cpp" />
   </ItemGroup>
@@ -157,11 +161,15 @@
     <ClInclude Include="..\..\..\Internal\BackgroundManager.h" />
     <ClInclude Include="..\..\..\Internal\BaseObject.h" />
     <ClInclude Include="..\..\..\Internal\Button.h" />
+    <ClInclude Include="..\..\..\Internal\CameraManager.h" />
     <ClInclude Include="..\..\..\Internal\Character.h" />
+    <ClInclude Include="..\..\..\Internal\EngineApp.h" />
     <ClInclude Include="..\..\..\Internal\GameManager.h" />
+    <ClInclude Include="..\..\..\Internal\GameSceneBase.h" />
     <ClInclude Include="..\..\..\Internal\InputManager.h" />
     <ClInclude Include="..\..\..\Internal\ObjectManager.h" />
     <ClInclude Include="..\..\..\Internal\PhysicsManager.h" />
+    <ClInclude Include="..\..\..\Internal\Projectile.h" />
     <ClInclude Include="..\..\..\Internal\Scene.h" />
     <ClInclude Include="..\..\..\Internal\SceneManager.h" />
     <ClInclude Include="..\..\..\Internal\Singleton.h" />
@@ -169,9 +177,11 @@
     <ClInclude Include="..\..\..\Internal\SpriteManager.h" />
     <ClInclude Include="..\..\..\Internal\StaticObject.h" />
     <ClInclude Include="..\..\..\Internal\TextManager.h" />
+    <ClInclude Include="..\..\..\Internal\Tilemap.h" />
     <ClInclude Include="..\..\..\Internal\TimeManager.h" />
     <ClInclude Include="..\..\..\Internal\UIElement.h" />
     <ClInclude Include="..\..\..\Internal\UIManager.h" />
+    <ClInclude Include="..\..\..\Internal\UISceneBase.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
